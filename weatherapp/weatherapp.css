@@ -1,0 +1,73 @@
+li {
+  list-style: none;
+  color: #9aa0a6;
+}
+h1 {
+  color: #e8eaed;
+}
+strong {
+  font-size: 22px;
+  font-weight: 400;
+  color: #e8eaed;
+}
+.first-list {
+  padding-left: 0px;
+  margin-left: -50px;
+}
+.weather-app-border {
+  background: black;
+  //background: pink;
+  border: 1px solid black;
+  border-radius: 6px;
+  padding: 20px;
+  margin: 20px auto;
+  max-width: 630px;
+}
+.temperature {
+  color: #e8eaed;
+  margin-bottom: ;
+  font-size: 40px;
+  line-height: 1;
+  font-weight: 400;
+}
+.weather-icon {
+  padding-bottom: 22px;
+}
+.units {
+  position: relative;
+  top: -22px;
+  color: #fff;
+}
+.degree-fahrenheit-link {
+  text-decoration: none;
+
+  margin-left: -3px;
+}
+.degree-celcius {
+  margin-left: -7px;
+  text-decoration: none;
+}
+.sub-list-under-weathericon {
+  margin-left: -220px;
+  color: #9aa0a6;
+}
+.precip-margin-align {
+  margin-left: -60px;
+}
+.wind-margin-design {
+  margin-left: -60px;
+}
+.form-input-text {
+  margin-left: 88px;
+
+  height: 38px;
+}
+.search-form {
+  margin-bottom: -25px;
+}
+.current-location-button {
+  margin-left: 50px;
+}
+.search-button {
+  margin-left: 50px;
+}
