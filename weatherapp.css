@@ -71,3 +71,7 @@ strong {
 .search-button {
   margin-left: 50px;
 }
+.github-repo {
+  text-align: center;
+  text-decoration: none;
+}
