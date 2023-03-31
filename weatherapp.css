@@ -73,5 +73,7 @@ strong {
 }
 .github-repo {
   text-align: center;
+}
+.github-link {
   text-decoration: none;
 }
