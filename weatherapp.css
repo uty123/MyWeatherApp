@@ -1,3 +1,7 @@
+body {
+  margin-top: 80px;
+}
+
 li {
   list-style: none;
   color: #9aa0a6;
